@@ -9,5 +9,6 @@ Cheats:
 - Immortality
 - Immunity to effects
 - You start at level 69
+- Automatically adds a key for a door/chest when you need one
 
 Shattered Pixel Dungeon on [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases), [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), [Amazon](https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M), and [F-Droid](https://f-droid.org/repository/browse/?fdid=com.shatteredpixel.shatteredpixeldungeon).
