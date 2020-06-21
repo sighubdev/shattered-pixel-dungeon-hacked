@@ -1,17 +1,13 @@
-# Shattered Pixel Dungeon
+# Shattered Pixel Dungeon (HACKED)
 
-A Roguelike RPG, with randomly generated levels, items, enemies, and traps! Based on the [source code of Pixel Dungeon](https://github.com/00-Evan/pixel-dungeon-gradle), by [Watabou](https://www.watabou.ru).
+A Hacked version of Shattered Pixel Dungeon.
 
-Shattered Pixel Dungeon currently compiles for Android and desktop platforms. It is available from [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases), [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), [Amazon](https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M), and [F-Droid](https://f-droid.org/repository/browse/?fdid=com.shatteredpixel.shatteredpixeldungeon).
+Cheats:
+- All classes are unlocked by default
+- One shot every NPC (except some bosses)
+- Start with 10M gold
+- Immortality
+- Immunity to effects
+- You start at level 69
 
-If you like this game, please consider [supporting me on Patreon](https://www.patreon.com/ShatteredPixel)!
-
-There is an official blog for this project at [ShatteredPixel.com](http://www.shatteredpixel.com).
-
-The game also has a translation project hosted on [Transifex](https://www.transifex.com/shattered-pixel/shattered-pixel-dungeon/).
-
-If you'd like to work with the code, you can find the following guides in `/docs`:
-- [Compiling for Android.](docs/getting-started-android.md)
-    - **[If you plan to distribute on Google Play please read the end of this guide.](docs/getting-started-android.md#distributing-your-apk)**
-- [Compiling for desktop platforms.](docs/getting-started-desktop.md)
-- [Recommended changes for making your own mod.](docs/recommended-changes.md)
+Shattered Pixel Dungeon on [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases), [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), [Amazon](https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M), and [F-Droid](https://f-droid.org/repository/browse/?fdid=com.shatteredpixel.shatteredpixeldungeon).
